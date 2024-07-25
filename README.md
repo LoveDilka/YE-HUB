@@ -1,3 +1,5 @@
+# loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/LoveDilka/YE-HUB/main/YE-HUB.lua))()
+
 # YE-HUB
 YE HUB - Future of toolbox simulator games is in our hands
 
