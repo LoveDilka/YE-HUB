@@ -1,5 +1,7 @@
 loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/LoveDilka/YE-HUB/main/YE-HUB.lua'))()
 
+OUTDATED: don't use that shit coded it's patched in the scp:cb rp and also it got alot of bugs
+
 # YE-HUB
 YE HUB - Future of toolbox simulator games is in our hands
 
